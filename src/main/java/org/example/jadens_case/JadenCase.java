@@ -1,9 +1,6 @@
 package org.example.jadens_case;
 
 public class JadenCase {
-    public static void main(String[] args) {
-
-    }
 
     public static String toJadenCase(String phrase) {
         StringBuilder result = new StringBuilder();
